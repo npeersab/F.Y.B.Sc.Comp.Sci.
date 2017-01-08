@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	float l, b, h;
 
 	printf("Enter dimensions of cuboid :\n");

@@ -1,8 +1,6 @@
 #include <stdio.h>
-#define PI 3.14
 
 int main() {
-
 	float a, b;
 
 	printf("Enter inner radius of ring : ");
@@ -10,8 +8,8 @@ int main() {
 	printf("Enter outer radius of ring : ");
 	scanf("%f", &a);
 
-	printf("\nPerimeter : %.2f\n", 2 * PI * (a + b));
-	printf("Area : %.2f\n", PI * (a * a - b * b));
+	printf("\nPerimeter : %.2f\n", 2 * 3.14 * (a + b));
+	printf("Area : %.2f\n", 3.14 * (a * a - b * b));
 
 	return 0;
 }

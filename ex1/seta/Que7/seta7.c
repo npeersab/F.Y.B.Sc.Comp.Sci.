@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	char ch;
 
 	printf("Enter a character : ");
@@ -11,5 +10,4 @@ int main() {
 	printf("The next character is %c\n", ch + 1);
 
 	return 0;
-
 }

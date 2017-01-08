@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	float basic_sal;
 	int emp_id;
 

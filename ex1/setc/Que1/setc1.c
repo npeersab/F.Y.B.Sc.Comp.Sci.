@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	float rm_l, rm_b, rm_h, dr_h, dr_b, wd_h, wd_b, area_p, area_w;
 
 	printf("Enter room's dimensions :\n");

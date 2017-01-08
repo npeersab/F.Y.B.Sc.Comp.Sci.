@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	int a, b;
 
 	printf("Enter a : ");
@@ -12,6 +11,7 @@ int main() {
 	printf("\na before swap : %d\n", a);
 	printf("b before swap : %d\n", b);
 
+	// swapping 2 numbers
 	a = a + b;
 	b = a - b;
 	a = a - b;

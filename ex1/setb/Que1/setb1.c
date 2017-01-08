@@ -1,8 +1,10 @@
 #include <stdio.h>
+
+// sqrt function requires math.h header file
+// compile using cc <filename> -lm
 #include <math.h>
 
 int main() {
-
 	float x1, x2, y1, y2;
 
 	printf("Enter co - ordinates of point 1 :\n");

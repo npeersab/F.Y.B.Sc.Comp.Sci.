@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	float u, a, t;
 
 	printf("Enter initial velocity : ");
