@@ -2,7 +2,6 @@
 #include <math.h>
 
 int main() {
-
 	int a, b, c;
 	float root1, root2;
 

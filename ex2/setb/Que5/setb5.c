@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	int m1, m2, m3;
 	float avg;
 
@@ -16,13 +15,13 @@ int main() {
 	avg = (m1 + m2 + m3) / 3.0;
 	
 	printf("\n");
-	if(avg > 70)
+	if (avg > 70)
 		printf("Class I ");
-	else if(avg > 60)
+	else if (avg > 60)
 		printf("Class II ");
-	else if(avg > 50)
+	else if (avg > 50)
 		printf("Class III ");
-	else if(avg > 40)
+	else if (avg > 40)
 		printf("Pass ");
 	else
 		printf("Fail ");
