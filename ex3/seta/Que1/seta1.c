@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 int main() {
-
 	int digit;
 	
 	printf("Enter a digit : ");
 	scanf("%d", &digit);
 
-	switch(digit) {
+	switch (digit) {
 		case 1 :
 			printf("One");
 			break;
@@ -44,6 +43,4 @@ int main() {
 		printf("\n");
 
 	return 0;
-}
-
-		
+}	

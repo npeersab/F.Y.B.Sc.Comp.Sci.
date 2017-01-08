@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
 	int n1, n2;
 	char op;
 
@@ -11,7 +10,7 @@ int main() {
 	scanf(" %c", &op);
 
 	printf("\nResult : ");
-	switch(op) {
+	switch (op) {
 
 		case '+' :
 			printf("%d", n1 + n2);
@@ -35,6 +34,3 @@ int main() {
 	
 	return 0;
 }
-
-
-	
