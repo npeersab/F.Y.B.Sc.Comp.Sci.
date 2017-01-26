@@ -8,8 +8,7 @@ int main() {
 
 	// reverse the number
 	while (num > 0) {
-		reverse *= 10;
-		reverse += num % 10;
+		reverse = reverse * 10 + num % 10;
 		num /= 10;
 	}
 
