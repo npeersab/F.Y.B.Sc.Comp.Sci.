@@ -2,7 +2,7 @@
 
 Codes For F.Y.B.Sc. Comp.Sci. Lab Workbook
 
-## Assignment Details
+## Exercise Details
 
 1. To demonstrate use of data types, simple operators (expressions)
 2. To demonstrate decision making statements (if and if-else, nested structures)
